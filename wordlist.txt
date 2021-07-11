@@ -1,0 +1,6 @@
+box
+mysore
+kochi
+python
+goa
+chennai
